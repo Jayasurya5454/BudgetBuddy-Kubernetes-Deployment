@@ -21,4 +21,4 @@ spec:
         - containerPort: 80
         env:
         - name: VITE_BACKEND_URL
-          value: "http://10.244.0.101:5000"
+          value: "http://backend-buddy-service:5000"
