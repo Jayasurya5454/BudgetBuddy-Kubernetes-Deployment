@@ -72,7 +72,7 @@ This folder contains the necessary files and instructions to deploy the Budget B
 
 4. Verify the service:
     ```yaml
-    kubectl get svc -l app=budget-buddy-frontend
+    kubectl get svc -l app=budget-buddy-frontend-service
     ```
 
 ## Cleanup
