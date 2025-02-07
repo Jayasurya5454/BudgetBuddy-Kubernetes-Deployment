@@ -1,7 +1,6 @@
 # Budget Buddy Deployment
 
-This folder contains the necessary files and instructions to deploy the Budget Buddy application (backend and frontend) on a Kubernetes cluster.
-
+Deploy a full-stack application (Budget Buddy), a financial application, on a Kubernetes cluster.
 ## Prerequisites
 
 - Kubernetes cluster
